@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 3670e222-83f7-7f79-eec8-5d9d183be7db
 resourcetype: Document
 title: MIT16_30F10_lab02_app.pdf
 uid: 11267786-161d-9f78-c2e4-0080554055c0

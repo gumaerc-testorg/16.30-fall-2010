@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 61c49743-94d6-9692-4596-4ecfea13de24
 resourcetype: Document
 title: MIT16_30F10_lec22_slides.pdf
 uid: f9c8d4a9-b8f1-530a-12c6-cfd26a8409d6
