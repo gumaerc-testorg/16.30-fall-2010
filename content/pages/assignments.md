@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the homework assignments and labs for the course,
+  related resources, and information on the course project.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: 3670e222-83f7-7f79-eec8-5d9d183be7db
 ---
@@ -16,43 +21,43 @@ ASSIGNMENTS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn01))
+Homework 1 ({{% resource_link 81d5a275-4aca-cd3e-abb3-5f9633672c9f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn02))
+Homework 2 ({{% resource_link 53936a08-29df-f6d3-a3a0-adaa3d83705b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 3 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn03))
+Homework 3 ({{% resource_link 904e3cc0-a586-b547-88f7-f33ec4bf1306 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 4 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn04))
+Homework 4 ({{% resource_link 410626ac-19d1-32bb-44bf-ee90c68993a7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 5 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn05))
+Homework 5 ({{% resource_link ecddc4e2-99f7-2468-ce35-350fac656381 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 6 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn06))
+Homework 6 ({{% resource_link 54556190-7b99-78a4-f675-a6d1021cf560 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Homework 7 ([PDF]({{< baseurl >}}/resources/mit16_30f10_assn07))
+Homework 7 ({{% resource_link 35769260-28d2-ddd5-006c-5918f516109b "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -74,7 +79,7 @@ RESOURCES
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab01))
+Lab 1 ({{% resource_link 9010c3c6-6314-1448-a9d3-b2d699672f64 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -83,14 +88,14 @@ Lab 1 ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab01))
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Lab 2 ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02))
+Lab 2 ({{% resource_link ffeaaa05-ddd8-d532-7390-e9e4ce2e1cbd "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Competition ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02_comp))
+Competition ({{% resource_link 802e38cf-3389-ae2b-acb5-376f4b764c0d "PDF" %}})
 
-Appendix ([PDF]({{< baseurl >}}/resources/mit16_30f10_lab02_app))
+Appendix ({{% resource_link 11267786-161d-9f78-c2e4-0080554055c0 "PDF" %}})
 
 
 {{< tdclose >}}

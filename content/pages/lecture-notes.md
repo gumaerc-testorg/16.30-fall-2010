@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics for the course along
+  with lecture notes from each session.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 61c49743-94d6-9692-4596-4ecfea13de24
 ---
@@ -28,7 +33,7 @@ LECTURE NOTES
 Introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec01))
+({{% resource_link d2d138e9-053e-153f-601a-27a6c6cc3b4d "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +45,7 @@ Introduction
 Basic root locus: analysis and examples
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec02))
+({{% resource_link 0647b5f6-e521-91b6-e63c-6c23b59fd3dd "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -52,7 +57,7 @@ Basic root locus: analysis and examples
 Frequency response methods
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec03))
+({{% resource_link ef34e49f-4c79-159f-e0b1-d8e1752bb8b5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -64,7 +69,7 @@ Frequency response methods
 Control design using Bode plots
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec04))
+({{% resource_link 06f5c464-cfe3-b1ed-6f93-fafcef241d8f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,9 +89,9 @@ Slides: Signals and systems
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec05))
+({{% resource_link 1bfc976f-cead-1982-d90c-5057511e5ef7 "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/mit16_30f10_lec05_slides))
+Slides ({{% resource_link f099f428-4160-29f5-8b36-e45b836256e3 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -100,7 +105,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mit16_30f10_lec05_slides))
 Developing state-space models based on transfer functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec06))
+({{% resource_link 037af959-6875-470a-ad93-5060c2c3935c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -112,7 +117,7 @@ Developing state-space models based on transfer functions
 State-space models: basic properties
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec07))
+({{% resource_link d9e4bc85-ad19-49e5-2cf9-b70a9ff3e76f "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -124,7 +129,7 @@ State-space models: basic properties
 System zeros and transfer function matrices
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec08))
+({{% resource_link e624b0ae-8127-c136-f31f-4bc1daed1424 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -136,7 +141,7 @@ System zeros and transfer function matrices
 State-space model features
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec09))
+({{% resource_link a2e9ecce-a56d-a4ba-879a-5a3e15cf8cde "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -148,7 +153,7 @@ State-space model features
 Controllability
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec10))
+({{% resource_link 4bebd71d-575b-dde1-3847-13e9efb400cc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -160,7 +165,7 @@ Controllability
 Full-state feedback control
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec11))
+({{% resource_link c553561f-63fe-aa61-73e3-1994f45f0c60 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -172,7 +177,7 @@ Full-state feedback control
 Pole placement approach
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec12))
+({{% resource_link be97882d-33e1-689e-f2eb-80cf181afafb "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +189,7 @@ Pole placement approach
 LQ servo introduction
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec13))
+({{% resource_link 8c274071-56a7-4c96-0c51-8670cdd4ac98 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -196,7 +201,7 @@ LQ servo introduction
 Open-loop and closed-loop estimators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec14))
+({{% resource_link f6de7a51-bb04-3db1-d6d3-cc7c362b7393 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -208,7 +213,7 @@ Open-loop and closed-loop estimators
 Combined estimators and regulators
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec15))
+({{% resource_link e578b6e7-12ac-d17e-f9e8-faaf845b5ec7 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -220,7 +225,7 @@ Combined estimators and regulators
 Adding reference inputs
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec16))
+({{% resource_link bb2a214b-4c2a-ade0-0dd8-2308aafe4fe0 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -232,7 +237,7 @@ Adding reference inputs
 LQ servo: improving transient performance
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec17))
+({{% resource_link fd8dac44-8309-9318-9397-06b5660f6475 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -244,7 +249,7 @@ LQ servo: improving transient performance
 Deterministic linear quadratic regulator (LQR)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec18))
+({{% resource_link 55d0aa6e-1e46-31a0-c336-6fb68028ae50 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -256,7 +261,7 @@ Deterministic linear quadratic regulator (LQR)
 Linear quadratic Gaussian (LQG)
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec19))
+({{% resource_link ff6deea2-6534-5bda-444b-55df6d7163ca "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -268,7 +273,7 @@ Linear quadratic Gaussian (LQG)
 Digital control basics
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec20))
+({{% resource_link 25129dab-d192-49e1-5c1d-f8034335aafa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -280,7 +285,7 @@ Digital control basics
 Systems with nonlinear functions
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec21))
+({{% resource_link 312399a2-6d8e-dca2-7ed6-821d1ee7edd5 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -300,9 +305,9 @@ Slides: Overview of nonlinear control synthesis
 {{< tdopen >}}
 
 
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec22))
+({{% resource_link 463e9559-c6ef-70f1-3ea5-1c3464bdc9c1 "PDF" %}})
 
-Slides ([PDF]({{< baseurl >}}/resources/mit16_30f10_lec22_slides))
+Slides ({{% resource_link f9c8d4a9-b8f1-530a-12c6-cfd26a8409d6 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -316,7 +321,7 @@ Slides ([PDF]({{< baseurl >}}/resources/mit16_30f10_lec22_slides))
 Anti-windup
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec23))
+({{% resource_link 8c33eb30-6938-cac6-cd73-e701a86a5b32 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -328,7 +333,7 @@ Anti-windup
 Closed-loop system analysis
 {{< tdclose >}}
 {{< tdopen >}}
-([PDF]({{< baseurl >}}/resources/mit16_30f10_lec24))
+({{% resource_link fd665d4a-819c-346d-b7e7-d9041b7d2ff6 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
