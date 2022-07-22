@@ -5,6 +5,7 @@ file: /courses/16-30-feedback-control-systems-fall-2010/f099f428416029f58b36e45b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT16_30F10_lec05_slides.pdf
 uid: f099f428-4160-29f5-8b36-e45b836256e3
 ---
 This resource contains information related to signals and systems.
-
