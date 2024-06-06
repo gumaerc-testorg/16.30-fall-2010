@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to signals and systems.
 file: /courses/16-30-feedback-control-systems-fall-2010/f099f428416029f58b36e45b836256e3_MIT16_30F10_lec05_slides.pdf
+file_size: 300417
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
