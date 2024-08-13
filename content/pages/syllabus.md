@@ -22,7 +22,7 @@ Some basic understanding of classical design techniques, including root locus an
 
 - State-space control design and analysis of feedback control systems
     - Focus will be on linear systems, but consider more nonlinear analysis and control than before (but with less breadth than 2.152)
-    - Coverage of linear systems theory, but not as theoretical as [6.241](/courses/6-241j-dynamic-systems-and-control-spring-2011), which is being redesigned to follow-on from this course
+    - Coverage of linear systems theory, but not as theoretical as [6.241](https://ocw-studio.odl.mit.edu/courses/6-241j-dynamic-systems-and-control-spring-2011), which is being redesigned to follow-on from this course
 - Design of state-space controllers; estimation filters; dynamic output feedback
 - Limitations on performance of control systems
 - Linearization and analysis of nonlinear systems
@@ -68,7 +68,7 @@ None are required, as lecture notes will be provided. Several recommendations:
 
 Franklin, Gene, J. David Powell, and Abbas Emami-Naeini. *Feedback Control of Dynamic Systems.* 6th ed. Prentice Hall, 2009. ISBN: 9780136019695.
 
-Astrom, Karl, and Richard Murray. [*Feedback Systems: An Introduction for Scientists and Engineers*](http://www.cds.caltech.edu/%7Emurray/amwiki/index.php?title=Main_Page). Princeton University Press, 2008. ISBN: 9780691135762.
+Astrom, Karl, and Richard Murray. [*Feedback Systems: An Introduction for Scientists and Engineers*](https://web.archive.org/web/20080710085350/https://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page). Princeton University Press, 2008. ISBN: 9780691135762.
 
 Van de Vegte, John. *Feedback Control Systems*. 3rd ed. Prentice Hall, 1993. ISBN: 9780130163790.
 
