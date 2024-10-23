@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to overview of non linear
   control synthesis.
-file: /courses/16-30-feedback-control-systems-fall-2010/f9c8d4a9b8f1530a12c6cfd26a8409d6_MIT16_30F10_lec22_slides.pdf
+file: /ol-ocw-studio-app/courses/16-30-feedback-control-systems-fall-2010/f9c8d4a9b8f1530a12c6cfd26a8409d6_MIT16_30F10_lec22_slides.pdf
 file_size: 340505
 file_type: application/pdf
 learning_resource_types:
