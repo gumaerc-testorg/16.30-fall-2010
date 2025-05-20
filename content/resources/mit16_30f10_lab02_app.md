@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on lab 2 appendix.
-file: /ol-ocw-studio-app/courses/16-30-feedback-control-systems-fall-2010/11267786161d9f78c2e40080554055c0_MIT16_30F10_lab02_app.pdf
+file: /courses/16-30-feedback-control-systems-fall-2010/11267786161d9f78c2e40080554055c0_MIT16_30F10_lab02_app.pdf
 file_size: 146223
 file_type: application/pdf
 learning_resource_types:
