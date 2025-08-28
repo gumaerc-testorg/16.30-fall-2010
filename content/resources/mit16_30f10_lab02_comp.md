@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes details on the competition.
-file: /courses/16-30-feedback-control-systems-fall-2010/802e38cf3389ae2bacb5376f4b764c0d_MIT16_30F10_lab02_comp.pdf
+file: /ol-ocw-studio-app/courses/16-30-feedback-control-systems-fall-2010/802e38cf3389ae2bacb5376f4b764c0d_MIT16_30F10_lab02_comp.pdf
 file_size: 100450
 file_type: application/pdf
 learning_resource_types:
